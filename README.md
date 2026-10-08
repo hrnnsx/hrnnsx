@@ -90,20 +90,12 @@
     <td style="border: none;" width="1010">
       <img width="40" alt="skill-icons--expressjs-dark" src="https://github.com/user-attachments/assets/9d425cd4-9dd6-43c0-bc57-57afdca21a9b"> &nbsp; 
       <img width="40" alt="skill-icons--nodejs-dark" src="https://github.com/user-attachments/assets/2e75ab43-c6a0-4c42-beef-03f5cd40dc99"> &nbsp; 
-      <img width="40" alt="skill-icons--npm-dark" src="https://github.com/user-attachments/assets/1a9a95c7-906b-46ea-9898-87790d6201d0"> &nbsp; 
-      <img width="40" alt="skill-icons--bootstrap" src="https://github.com/user-attachments/assets/cf137dc2-0812-4f6a-8505-df86b4e9b2c3"> &nbsp; 
-      <img width="40" alt="skill-icons--tailwindcss-dark" src="https://github.com/user-attachments/assets/708d071e-ef4a-4d5a-9dca-2573f0107916">
     </td>
   </tr>
   <tr>
     <td style="border: none; padding: 30px;">
-      <img width="40" alt="skill-icons--markdown-dark" src="https://github.com/user-attachments/assets/aedc6785-5e17-4a36-8ddc-b71902633b9a"> &nbsp; 
       <img width="40" alt="skill-icons--github-dark" src="https://github.com/user-attachments/assets/654cc052-7488-47dd-96cd-ea246fc019b8"> &nbsp; 
-      <img width="40" alt="skill-icons--git" src="https://github.com/user-attachments/assets/0eada13a-4199-43ac-add6-f1b07f87e0ee"> &nbsp; 
-      <img width="40" alt="skill-icons--bash-dark" src="https://github.com/user-attachments/assets/9a33a1bc-648a-4ed1-ab08-afb307f7a30c"> &nbsp; 
-      <img width="40" alt="skill-icons--kali-dark" src="https://github.com/user-attachments/assets/7c4e6a17-d773-4112-82cf-e6e155d1aa40"> &nbsp; 
       <img width="40" alt="skill-icons--arch-dark" src="https://github.com/user-attachments/assets/86a56ca1-18c0-489a-b949-c86f1112678f"> &nbsp; 
-      <img width="40" alt="skill-icons--ubuntu-dark" src="https://github.com/user-attachments/assets/e177cd33-0bc1-4141-ab05-6330d62f6354"> &nbsp; 
       <img width="40" alt="skill-icons--vscode-dark" src="https://github.com/user-attachments/assets/221bd4a0-7c7a-48f1-8a20-e1b93fb9cbe9"> &nbsp; 
     </td>
   </tr>  
