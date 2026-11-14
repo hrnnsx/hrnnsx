@@ -101,7 +101,6 @@
   <tr>
     <td style="border: none; padding: 30px;">
       <img width="40" alt="skill-icons--github-dark" src="https://github.com/user-attachments/assets/654cc052-7488-47dd-96cd-ea246fc019b8"> &nbsp; 
-      <img width="40" alt="skill-icons--arch-dark" src="https://github.com/user-attachments/assets/86a56ca1-18c0-489a-b949-c86f1112678f"> &nbsp; 
       <img width="40" alt="skill-icons--vscode-dark" src="https://github.com/user-attachments/assets/221bd4a0-7c7a-48f1-8a20-e1b93fb9cbe9"> &nbsp; 
     </td>
   </tr>  
