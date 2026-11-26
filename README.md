@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Haerunnas</h1>
-<h3 align="center">I'm a CS student @ Syarif Hidayatullah Islamic State University🎓,</h3>
-
+<h1 align="center">I'm Haerunnas</h1>
+<h3 align="center">I'm a Computer Science student and backend developer interested in building reliable software systems, designing RESTful APIs, and exploring practical AI integrations.</h3>
 
 <table align="center">
   <tr>
@@ -51,11 +50,12 @@
       </div><br>
       <p align="center"><i>"Crafting digital experiences where logic meets art."</i></p>
       &nbsp;
-      <p>🔭 <b>Currently focused on:</b> Building modern web applications, exploring LLM integrations, and diving deep into Offensive Security.</p>
-      <p>🌱 <b>Always learning:</b> Web2/Web3, Advanced CyberSec techniques, AI Automation, and elegant UI/UX design.</p>
-      <p>🤝 <b>Community:</b> Actively sharing knowledge and organizing tech initiatives around Web Development and Cyber Security.</p>
-      <p>👨‍💻 <b>My digital garden:</b> <a href="https://haerunnas.pages.dev">haerunnas/portfolio</a></p>
-      <p>📫 <b>Let's connect:</b> <a href="mailto:nassjourney@gmail.com">nassjourney@gmail.com</a></p>
+		<p>🏗️ <b>Making:</b> Backend services, API-driven applications, and tools that turn complex workflows into simpler solutions.</p>
+		<p>🧪 <b>Tinkering with:</b> Go, Node.js, LLMs, database systems, and emerging technologies.</p>
+		<p>🛡️ <b>Looking deeper:</b> Cybersecurity, secure software design, and the hidden mechanics of digital systems.</p>
+		<p>🌱 <b>Growing through:</b> Open collaboration, technical communities, and continuous experimentation.</p>
+		<p>🪴 <b>My corner of the internet:</b> <a href="https://haerunnas.pages.dev">haerunnas/portfolio</a></p>
+		<p>✉️ <b>Open to conversations:</b> <a href="mailto:nassjourney@gmail.com">nassjourney@gmail.com</a></p>
       &nbsp;
     </td>
   </tr>
