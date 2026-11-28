@@ -1,4 +1,4 @@
-<h1 align="center">I'm Haerunnas</h1>
+<h1 align="center">Hello, I'm Haerunnas</h1>
 
 <table align="center">
   <tr>
