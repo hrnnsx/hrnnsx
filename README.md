@@ -1,35 +1,4 @@
 <h1 align="center">I'm Haerunnas</h1>
-<h3 align="center">I'm a Computer Science student and backend developer interested in building reliable software systems, designing RESTful APIs, and exploring practical AI integrations.</h3>
-
-<table align="center">
-  <tr>
-    <td width="1010">
-      <br>
-      <p align="center">
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="./metrics-base.svg" alt="Metrics" height="160" />
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/user-attachments/assets/360661e1-38bd-491b-b648-189be91a8268" height="160" radius="20"/>
-        &nbsp;&nbsp;&nbsp;&nbsp;
-      </p>
-      <br>
-      <p align="center">
-        <br>
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="/metrics-calendar.svg" alt="Metrics" height="150">
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="/metrics-languages.svg" alt="Metrics" height="120">
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        <br>
-      </p>
-      <br>
-    </td>
-  </tr>
-</table>
-
-<br>
-<br>
-<br>
 
 <table align="center">
   <tr>
@@ -41,22 +10,55 @@
 <table align="center">
   <tr>
     <td width="1010">
+			<br>
       <div align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hrnns-ti/hrnns-ti/output/github-contribution-grid-snake-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hrnns-ti/hrnns-ti/output/github-contribution-grid-snake.svg">
-          <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hrnns-ti/hrnns-ti/output/github-contribution-grid-snake.svg">
-        </picture>
-      </div><br>
-      <p align="center"><i>"Crafting digital experiences where logic meets art."</i></p>
-      &nbsp;
-		<p>🏗️ <b>Making:</b> Backend services, API-driven applications, and tools that turn complex workflows into simpler solutions.</p>
-		<p>🧪 <b>Tinkering with:</b> Go, Node.js, LLMs, database systems, and emerging technologies.</p>
-		<p>🛡️ <b>Looking deeper:</b> Cybersecurity, secure software design, and the hidden mechanics of digital systems.</p>
-		<p>🌱 <b>Growing through:</b> Open collaboration, technical communities, and continuous experimentation.</p>
-		<p>🪴 <b>My corner of the internet:</b> <a href="https://haerunnas.pages.dev">haerunnas/portfolio</a></p>
-		<p>✉️ <b>Open to conversations:</b> <a href="mailto:nassjourney@gmail.com">nassjourney@gmail.com</a></p>
-      &nbsp;
+				<p align="center">
+        	&nbsp;&nbsp;&nbsp;&nbsp;
+        	<img src="./metrics-base.svg" alt="Metrics" height="160" />
+        	&nbsp;&nbsp;&nbsp;&nbsp;
+        	<img src="https://github.com/user-attachments/assets/360661e1-38bd-491b-b648-189be91a8268" height="160" radius="20"/>
+        	&nbsp;&nbsp;&nbsp;&nbsp;
+      	</p>
+			</div><br>
+			<p align="center"><i>"Crafting digital experiences where logic meets art."</i></p>
+			&nbsp;
+			<h4 align="center">I'm a Computer Science student and backend developer interested in building reliable software systems, designing RESTful APIs, and exploring practical AI integrations.</h4>
+			<br>
+			<p>🏗️ <b>Making:</b> Backend services, API-driven applications, and tools that turn complex workflows into simpler solutions.</p>
+			<p>🧪 <b>Tinkering with:</b> Go, Node.js, LLMs, database systems, and emerging technologies.</p>
+			<p>🛡️ <b>Looking deeper:</b> Cybersecurity, secure software design, and the hidden mechanics of digital systems.</p>
+			<p>🌱 <b>Growing through:</b> Open collaboration, technical communities, and continuous experimentation.</p>
+			<p>🪴 <b>My corner of the internet:</b> <a href="https://haerunnas.pages.dev">haerunnas/portfolio</a></p>
+			<p>✉️ <b>Open to conversations:</b> <a href="mailto:nassjourney@gmail.com">nassjourney@gmail.com</a></p>
+			&nbsp;
+    </td>
+  </tr>
+</table>
+
+<br>
+<br>
+<br>
+
+<table align="center">
+  <tr>
+    <td width="1010">
+			<div align="center">
+				<picture>
+					<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hrnns-ti/hrnns-ti/output/github-contribution-grid-snake-dark.svg">
+					<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hrnns-ti/hrnns-ti/output/github-contribution-grid-snake.svg">
+					<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hrnns-ti/hrnns-ti/output/github-contribution-grid-snake.svg">
+				</picture>
+			</div>
+      <p align="center">
+        <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="/metrics-calendar.svg" alt="Metrics" height="150" hspace="25">
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="/metrics-languages.svg" alt="Metrics" height="120" hspace="25">
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <br>
+      </p>
+      <br>
     </td>
   </tr>
 </table>
